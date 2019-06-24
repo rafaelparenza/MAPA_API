@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ftec.WebAPI", "Ftec.WebAPI\Ftec.WebAPI.csproj", "{086A1358-14F4-4D1E-B56A-BD363FF0D3CC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1-WebServices", "1-WebServices", "{E8D4E031-50AD-4733-AE42-F6541E831F10}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2-Application", "2-Application", "{014F701A-8824-4D81-8981-60C9F794E730}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3-Domain", "3-Domain", "{09792180-3F3E-44F6-B521-1BE7C57D3E58}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4-Infra", "4-Infra", "{BF06AEBB-51D7-43ED-A1F8-CA6EB2D3D536}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Repository", "Repository", "{192DBE4B-8D7A-4FB1-BAFE-BE51DBC40661}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ExternalServices", "ExternalServices", "{792E1758-1999-4ED3-8213-7E24E2AC8586}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ftec.WebAPI.Application", "Ftec.WebAPI.Application\Ftec.WebAPI.Application.csproj", "{7B7019F2-486D-4869-8D24-263389654081}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ftec.WebAPI.Domain", "Ftec.WebAPI.Domain\Ftec.WebAPI.Domain.csproj", "{B24CF83C-3402-49B1-8A09-34E41E1BF5C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ftec.WebAPI.Infra.Repository", "Ftec.WebAPI.Infra.Repository\Ftec.WebAPI.Infra.Repository.csproj", "{096F7872-9F55-469E-8DF8-AEEB4E309626}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{086A1358-14F4-4D1E-B56A-BD363FF0D3CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{086A1358-14F4-4D1E-B56A-BD363FF0D3CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{086A1358-14F4-4D1E-B56A-BD363FF0D3CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{086A1358-14F4-4D1E-B56A-BD363FF0D3CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B7019F2-486D-4869-8D24-263389654081}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B7019F2-486D-4869-8D24-263389654081}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B7019F2-486D-4869-8D24-263389654081}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B7019F2-486D-4869-8D24-263389654081}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B24CF83C-3402-49B1-8A09-34E41E1BF5C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B24CF83C-3402-49B1-8A09-34E41E1BF5C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B24CF83C-3402-49B1-8A09-34E41E1BF5C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B24CF83C-3402-49B1-8A09-34E41E1BF5C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{096F7872-9F55-469E-8DF8-AEEB4E309626}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{096F7872-9F55-469E-8DF8-AEEB4E309626}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{096F7872-9F55-469E-8DF8-AEEB4E309626}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{096F7872-9F55-469E-8DF8-AEEB4E309626}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{086A1358-14F4-4D1E-B56A-BD363FF0D3CC} = {E8D4E031-50AD-4733-AE42-F6541E831F10}
+		{192DBE4B-8D7A-4FB1-BAFE-BE51DBC40661} = {BF06AEBB-51D7-43ED-A1F8-CA6EB2D3D536}
+		{792E1758-1999-4ED3-8213-7E24E2AC8586} = {BF06AEBB-51D7-43ED-A1F8-CA6EB2D3D536}
+		{7B7019F2-486D-4869-8D24-263389654081} = {014F701A-8824-4D81-8981-60C9F794E730}
+		{B24CF83C-3402-49B1-8A09-34E41E1BF5C1} = {09792180-3F3E-44F6-B521-1BE7C57D3E58}
+		{096F7872-9F55-469E-8DF8-AEEB4E309626} = {192DBE4B-8D7A-4FB1-BAFE-BE51DBC40661}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F25307C-0F27-4A2B-ADE8-F490E7972823}
+	EndGlobalSection
+EndGlobal

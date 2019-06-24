@@ -1,0 +1,33 @@
+﻿
+@{
+    ViewBag.Title = "Gravar";
+}
+
+@model Ftec.WebAPI.Client.Models.Cliente
+
+<h2>Gravar Um Cliente</h2>
+
+@using (Html.BeginForm("ProcessarGravacaoPost", "cliente", FormMethod.Post))
+{
+<table>
+    <tr>
+        <td>@Html.LabelFor(m => m.RazaoSocial)</td>
+        <td>
+            @Html.TextBoxFor(m => m.RazaoSocial)
+            @Html.ValidationMessageFor(m => m.RazaoSocial)
+        </td>
+    </tr>
+    <tr>
+        <td>@Html.LabelFor(m => m.Cnpj)</td>
+        <td>
+            @Html.TextBoxFor(m => m.Cnpj)
+            @Html.ValidationMessageFor(m => m.Cnpj)
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2"><input type="submit" value="Enviar" /></td>
+    </tr>
+</table>
+}
+
+

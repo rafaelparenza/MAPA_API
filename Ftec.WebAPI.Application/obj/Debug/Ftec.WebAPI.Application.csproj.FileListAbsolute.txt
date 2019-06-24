@@ -1,0 +1,16 @@
+C:\Users\Rafael\source\repos\Ftec.WebAPI_camadas\Ftec.WebAPI\Ftec.WebAPI.Application\bin\Debug\Ftec.WebAPI.Application.dll
+C:\Users\Rafael\source\repos\Ftec.WebAPI_camadas\Ftec.WebAPI\Ftec.WebAPI.Application\bin\Debug\Ftec.WebAPI.Application.pdb
+C:\Users\Rafael\source\repos\Ftec.WebAPI_camadas\Ftec.WebAPI\Ftec.WebAPI.Application\bin\Debug\Npgsql.dll
+C:\Users\Rafael\source\repos\Ftec.WebAPI_camadas\Ftec.WebAPI\Ftec.WebAPI.Application\bin\Debug\Npgsql.pdb
+C:\Users\Rafael\source\repos\Ftec.WebAPI_camadas\Ftec.WebAPI\Ftec.WebAPI.Application\bin\Debug\System.Buffers.dll
+C:\Users\Rafael\source\repos\Ftec.WebAPI_camadas\Ftec.WebAPI\Ftec.WebAPI.Application\bin\Debug\System.Memory.dll
+C:\Users\Rafael\source\repos\Ftec.WebAPI_camadas\Ftec.WebAPI\Ftec.WebAPI.Application\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Rafael\source\repos\Ftec.WebAPI_camadas\Ftec.WebAPI\Ftec.WebAPI.Application\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Rafael\source\repos\Ftec.WebAPI_camadas\Ftec.WebAPI\Ftec.WebAPI.Application\bin\Debug\System.ValueTuple.dll
+C:\Users\Rafael\source\repos\Ftec.WebAPI_camadas\Ftec.WebAPI\Ftec.WebAPI.Application\bin\Debug\Ftec.WebAPI.Domain.dll
+C:\Users\Rafael\source\repos\Ftec.WebAPI_camadas\Ftec.WebAPI\Ftec.WebAPI.Application\bin\Debug\Ftec.WebAPI.Domain.pdb
+C:\Users\Rafael\source\repos\Ftec.WebAPI_camadas\Ftec.WebAPI\Ftec.WebAPI.Application\obj\Debug\Ftec.WebAPI.Application.csprojAssemblyReference.cache
+C:\Users\Rafael\source\repos\Ftec.WebAPI_camadas\Ftec.WebAPI\Ftec.WebAPI.Application\obj\Debug\Ftec.WebAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\Ftec.WebAPI_camadas\Ftec.WebAPI\Ftec.WebAPI.Application\obj\Debug\Ftec.WebAPI.Application.csproj.CopyComplete
+C:\Users\Rafael\source\repos\Ftec.WebAPI_camadas\Ftec.WebAPI\Ftec.WebAPI.Application\obj\Debug\Ftec.WebAPI.Application.dll
+C:\Users\Rafael\source\repos\Ftec.WebAPI_camadas\Ftec.WebAPI\Ftec.WebAPI.Application\obj\Debug\Ftec.WebAPI.Application.pdb

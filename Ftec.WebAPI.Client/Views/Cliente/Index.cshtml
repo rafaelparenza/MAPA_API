@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+@model List<Ftec.WebAPI.Client.Models.Cliente>
+
+<h2>Index</h2>
+<p><a href="cliente\novo">Novo Cliente</a></p>
+
+<table>
+    @foreach (var cliente in Model)
+    {
+        <tr>
+            <td>@cliente.RazaoSocial</td>
+            <td>@cliente.Cnpj</td>
+            <td><a href="cliente\editar\@cliente.Id">Editar</a></td>
+        </tr>
+    }
+</table>
